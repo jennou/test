@@ -5,7 +5,7 @@
 //  Created by branny on 2018/6/8.
 //  Copyright © 2018年 branny. All rights reserved.
 //
-//資工二Ｂ 410421854 歐穎璇 完成項：ＡＢＣＥ
+
 #include <stdlib.h>
 void person(){
     int a;
