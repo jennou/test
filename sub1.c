@@ -6,7 +6,7 @@
 //  Copyright © 2018年 branny. All rights reserved.
 //
 
-//資工二Ｂ 410421854 歐穎璇 完成項：ＡＢＣＥ
+
 char menu()
 {
     char choice;
